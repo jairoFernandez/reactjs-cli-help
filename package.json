@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-cli-help",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "React best practices",
+  "bin": {
+    "rch": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "author": {
+    "name": "Jairo Fernández",
+    "email": "hola@jairofernandez.me",
+    "url": "https://jairofernandez.me"
+  }
+}
