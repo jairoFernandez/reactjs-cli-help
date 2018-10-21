@@ -2,7 +2,7 @@
 
 ### Install
 ```sh
-  npm i -g rch 
+  npm i -g reactjs-cli-help 
 ```
 
 1. Generate component
